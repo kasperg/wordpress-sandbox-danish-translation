@@ -451,7 +451,7 @@ msgstr "med nølgeordene"
 
 #: tag.php:6
 msgid "Tag Archives:"
-msgstr "Nøgleordsarkiv"
+msgstr "Nøgleordsarkiv:"
 
 #: tag.php:28
 #, php-format
