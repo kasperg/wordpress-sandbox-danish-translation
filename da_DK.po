@@ -185,7 +185,7 @@ msgstr "Tilbage til %s"
 #: image.php:20
 #, php-format
 msgid "Posted by %1$s on <abbr class=\"published\" title=\"%2$sT%3$s\">%4$s at %5$s</abbr>. Bookmark the <a href=\"%6$s\" title=\"Permalink to %7$s\" rel=\"bookmark\">permalink</a>. Follow any comments here with the <a href=\"%8$s\" title=\"Comments RSS to %7$s\" rel=\"alternate\" type=\"application/rss+xml\">RSS feed for this post</a>."
-msgstr ""
+msgstr "Skrevet af %1$s <abbr class=\"published\" title=\"%2$sT%3$s\">%4$s %5$s</abbr>. Opret <a href=\"%6$s\" title=\"Permalink to %7$s\" rel=\"bookmark\">permalink</a> som bogmærke. Følg kommentarerne i <a href=\"%8$s\" title=\"Comments RSS to %7$s\" rel=\"alternate\" type=\"application/rss+xml\">indlæggets RSS feed</a>."
 
 #: attachment.php:30
 #: image.php:31
@@ -292,7 +292,7 @@ msgstr "Navn"
 #: comments.php:102
 #: comments.php:105
 msgid "<span class=\"required\">*</span>"
-msgstr ""
+msgstr "<span class=\"required\">*</span>"
 
 #: comments.php:105
 msgid "Email"
@@ -312,15 +312,15 @@ msgstr "Indsend kommentar"
 
 #: footer.php:3
 msgid "WordPress"
-msgstr ""
+msgstr "WordPress"
 
 #: footer.php:5
 msgid "Sandbox theme for WordPress"
-msgstr ""
+msgstr "Sandbox tema til WordPress"
 
 #: footer.php:5
 msgid "Sandbox"
-msgstr ""
+msgstr "Sandbox"
 
 #: functions.php:361
 #: functions.php:469
@@ -343,7 +343,7 @@ msgstr "Knaptekst:"
 #: functions.php:480
 #: sidebar.php:55
 msgid "Meta"
-msgstr ""
+msgstr "Meta"
 
 #: functions.php:419
 #: functions.php:487
@@ -371,15 +371,15 @@ msgstr "Alle kommentarer"
 
 #: functions.php:467
 msgid "A search form for your blog (Sandbox)"
-msgstr ""
+msgstr "Søgefelt til din blog (Sandbox)"
 
 #: functions.php:476
 msgid "Log in/out and administration links (Sandbox)"
-msgstr ""
+msgstr "Log ind/ud og administrationslinks (Sandbox)"
 
 #: functions.php:485
 msgid "RSS links for both posts and comments (Sandbox)"
-msgstr ""
+msgstr "RSS links for indlæg og kommentarer (Sandbox)"
 
 #: header.php:8
 #: sidebar.php:49
@@ -443,7 +443,7 @@ msgstr "RSS feeds"
 #: single.php:21
 #, php-format
 msgid "This entry was written by %1$s, posted on <abbr class=\"published\" title=\"%2$sT%3$s\">%4$s at %5$s</abbr>, filed under %6$s%7$s. Bookmark the <a href=\"%8$s\" title=\"Permalink to %9$s\" rel=\"bookmark\">permalink</a>. Follow any comments here with the <a href=\"%10$s\" title=\"Comments RSS to %9$s\" rel=\"alternate\" type=\"application/rss+xml\">RSS feed for this post</a>."
-msgstr ""
+msgstr "Dette indlæg blev skrevet af %1$s <abbr class=\"published\" title=\"%2$sT%3$s\">%4$s %5$s</abbr>, placeret i %6$s%7$s. Tilføj indlæggets <a href=\"%8$s\" title=\"Permalink to %9$s\" rel=\"bookmark\">permalink</a> til dine bogmærker. Følg kommentarerne i <a href=\"%10$s\" title=\"Comments RSS to %9$s\" rel=\"alternate\" type=\"application/rss+xml\">indlæggets RSS feed</a>."
 
 #: single.php:28
 msgid " and tagged "
